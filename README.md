@@ -10,6 +10,10 @@
 
 ###
 
+<img align="right" height="200" src="https://media.tenor.com/cBmz8RTK_JsAAAAC/typing-anime.gif"  />
+
+###
+
 <h4 align="left">Languages i'm learning:</h4>
 
 ###
@@ -25,10 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
 </div>
-
-###
-
-<img align="right" height="200" src="https://media.tenor.com/cBmz8RTK_JsAAAAC/typing-anime.gif"  />
 
 ###
 
