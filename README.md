@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media.tenor.com/cBmz8RTK_JsAAAAC/typing-anime.gif"  />
+<p align="left">About Me: <br>Hello my name is Gabriel<br>i'm 17y <br>I have knowledge in English and Spanish.</p>
 
 ###
 
@@ -25,6 +25,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
 </div>
+
+###
+
+<img align="right" height="200" src="https://media.tenor.com/cBmz8RTK_JsAAAAC/typing-anime.gif"  />
 
 ###
 
@@ -60,6 +64,7 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrieldePaulaF&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1&custom_title=Gabriel Github Stats" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrieldePaulaF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
