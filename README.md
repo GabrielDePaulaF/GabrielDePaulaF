@@ -16,7 +16,6 @@ Sou apaixonado por tecnologia, resolução de problemas e construção de sistem
 
 ## 📌 What I'm Focused On
 - Aprimorar meus conhecimentos em **backend e bancos de dados**
-- Desenvolver projetos práticos utilizando Java e Spring Boot
 - Criar sistemas mais performáticos e bem estruturados
 - Estudar padrões de projeto e boas práticas de desenvolvimento
 
