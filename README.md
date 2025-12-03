@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hey, I'm Gabriel</h1>
 
-<p align="center">💻 Fullstack Developer in Training • 19y</p>
+<p align="center">💻 Backend Developer in Training • 19y</p>
 <p align="center">🌎 Knowledge in English & Spanish</p>
 
 ---
 
 ## 🚀 About Me
-Olá! Meu nome é **Gabriel**, tenho 19 anos e estou construindo minha trajetória como **desenvolvedor Fullstack**.  
-Sou apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em código. Busco evoluir diariamente, criar projetos cada vez melhores e contribuir com a comunidade dev.
+Olá! Meu nome é **Gabriel**, tenho 19 anos e estou iniciando minha trajetória como **desenvolvedor Backend**.  
+Sou apaixonado por tecnologia, resolução de problemas e construção de sistemas sólidos. Estou sempre aprendendo, desenvolvendo projetos e expandindo meus conhecimentos em linguagens, algoritmos e bancos de dados.
 
 ---
 
@@ -30,10 +30,10 @@ Sou apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em
 <img align="right" height="200" src="https://media.tenor.com/cBmz8RTK_JsAAAAC/typing-anime.gif"/>
 
 ## 📌 What I'm Focused On
-- Aprimorar fundamentos de **frontend e backend**
-- Desenvolver projetos reais para meu portfólio
-- Estudar boas práticas e padrões de código
-- Me aprofundar em Java, Spring e TypeScript
+- Aprimorar meus conhecimentos em **backend e bancos de dados**
+- Desenvolver projetos práticos utilizando Java e Spring Boot
+- Criar sistemas mais performáticos e bem estruturados
+- Estudar padrões de projeto e boas práticas de desenvolvimento
 
 <br clear="both"/>
 
